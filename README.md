@@ -21,23 +21,19 @@ A better summary can be found here: https://pharmapsychotic.com/tools.html
 
 ### Prompts
 
-- Getting more accurate prompts
-
-  - [Prompt Parrot!]
+- [Prompt Parrot!]
   
-- Getting more prompts
-
-  - [krea.ai](https://www.krea.ai/)
+- [krea.ai](https://www.krea.ai/)
   
-  - [lexica](https://lexica.art/)
+- [lexica](https://lexica.art/)
   
-    A search engine for Stable Diffusion
+   A search engine for Stable Diffusion
   
-  - [openart](https://openart.ai/)
+- [openart](https://openart.ai/)
     
     Search 10M+ of prompts, and generate AI Art via Stable Diffusion, DALL·E 2.
  
-  - [publicprompts](https://publicprompts.art/)
+- [publicprompts](https://publicprompts.art/)
   
     A collection of prompts and models
   
