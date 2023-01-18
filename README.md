@@ -41,7 +41,7 @@ A better summary can be found here: https://pharmapsychotic.com/tools.html
   
     A collection of prompts and models
   
-- [CLIP interrogator]（https://huggingface.co/spaces/pharma/CLIP-Interrogator）
+- [CLIP interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)
       
    Want to figure out what a good prompt might be to create new images like an existing one?
 The CLIP Interrogator is here to get you answers!
