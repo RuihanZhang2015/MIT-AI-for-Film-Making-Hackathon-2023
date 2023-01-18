@@ -75,8 +75,7 @@ The CLIP Interrogator is here to get you answers!
  - Fine-tuned Stable Diffusion
     
    
- 
- - [first order motiom](https://aliaksandrsiarohin.github.io/first-order-model-website/）
+ - [first order motion](https://aliaksandrsiarohin.github.io/first-order-model-website/)
 
   
 ### Generate new video based on existing video
@@ -92,7 +91,6 @@ The CLIP Interrogator is here to get you answers!
 
 
 - [FaceSwap](https://faceswap.dev/)
-
 
 
 - [Deforum](https://deforum.github.io/)
