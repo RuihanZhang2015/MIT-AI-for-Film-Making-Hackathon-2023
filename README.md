@@ -80,6 +80,9 @@ The CLIP Interrogator is here to get you answers!
   
   Input a video + stylize one frame --> Generate a video with all frames stylized
  
+### Image to Video
+
+- [Neural radiance field](https://github.com/bmild/nerf)
 
 ### Faceswapping
 
