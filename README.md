@@ -92,11 +92,6 @@ The CLIP Interrogator is here to get you answers!
 - [FaceSwap](https://faceswap.dev/)
 
 
-- [Deforum](https://deforum.github.io/)
-
-   Really good!
-
-
 ### Text to videos
  
 - [Imagen @ Google](https://imagen.research.google/video/)
@@ -107,6 +102,9 @@ The CLIP Interrogator is here to get you answers!
 
   Not publically available yet.
  
+- [Deforum](https://deforum.github.io/)
+
+   Really good!
  
 ## AI for music generation
  
