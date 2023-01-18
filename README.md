@@ -5,7 +5,7 @@ A better summary can be found here: https://pharmapsychotic.com/tools.html
 
 ## AI for script generation
 
-- [Chat GPT]
+- [Chat GPT](https://openai.com/blog/chatgpt/)
 
 
 
@@ -21,7 +21,7 @@ A better summary can be found here: https://pharmapsychotic.com/tools.html
 
 ### Prompts
 
-- [Prompt Parrot!]
+- [Prompt Parrot!](https://replicate.com/kyrick/prompt-parrot)
   
 - [krea.ai](https://www.krea.ai/)
   
